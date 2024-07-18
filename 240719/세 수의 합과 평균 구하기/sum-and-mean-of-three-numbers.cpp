@@ -7,6 +7,6 @@ int main() {
     cin>>a>>b>>c;
 
     cout<<a+b+c<<endl;
-    cout<<a+b+c/3;
+    cout<<(a+b+c)/3;
     return 0;
 }
