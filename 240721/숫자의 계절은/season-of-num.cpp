@@ -6,7 +6,7 @@ int main() {
     int n;
     cin>>n;
 
-    if(n==12 && n<3){
+    if(n==12 || n<3){
         cout<<"Winter";
     }
     else if(n<6){
